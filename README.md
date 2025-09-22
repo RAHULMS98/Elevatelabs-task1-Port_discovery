@@ -1,6 +1,6 @@
-README.md
-Cyber Security Internship - Task 1: Scan Your Local Network for Open Ports
-This repository contains the work completed for Elevate Labs' Cyber Security Internship, Task 1. The objective was to perform basic network reconnaissance on a local network to identify open ports on devices. This task helped in understanding network service exposure and associated security risks.
+
+                                                 Task 1: Scan Your Local Network for Open Ports
+The objective was to perform basic network reconnaissance on a local network to identify open ports on devices. This task helped in understanding network service exposure and associated security risks.
 
 🛠️ Tools Used
 Nmap: The primary tool used for port scanning and OS detection.
